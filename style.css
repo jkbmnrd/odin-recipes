@@ -1,22 +1,45 @@
-/* styles.css */
+/* style.css */
 
 * {
     background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
+.title {
     color: black;
+    text-align: center;
+    font-family: "Brush Script MT";
+}
+.subtitle {
+    color: black;
+    text-align: center;
+    font-family: "Brush Script MT";
 }
 
 p {
     color: black;
+    text-align: center;
 }
 
-img {
-    height: auto;
-    width: 500px;
+ul {
+    color: black;
+    text-align: center;
+}
+
+ol {
+    color: black;
+    text-align: center;
 }
 
 a {
     color: blueviolet;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
