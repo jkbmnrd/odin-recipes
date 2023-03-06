@@ -3,17 +3,29 @@
 * {
     background-color: bisque;
     font-family: Arial, Helvetica, sans-serif;
+    border: 0px solid red;
 }
 
 .title {
     color: black;
     text-align: center;
     font-family: "Brush Script MT";
+    margin: 10px;
+    padding: 10px;
 }
+
 .subtitle {
     color: black;
     text-align: center;
     font-family: "Brush Script MT";
+    margin: 10px;
+    padding: 0px;
+}
+
+.ingstep {
+    text-align: left;
+    margin: 10px;
+    padding: 0px;
 }
 
 p {
@@ -23,16 +35,26 @@ p {
 
 ul {
     color: black;
-    text-align: center;
+    align-items: center;
+    text-align: left;
 }
 
 ol {
     color: black;
-    text-align: center;
+    align-items: center;
+    text-align: left;
+}
+
+li {
+    padding: 5px;
+    margin: 20px;
+    align-items: center;
+    text-align: left;
 }
 
 a {
     color: blueviolet;
+    padding: 5px;
 }
 
 img {
