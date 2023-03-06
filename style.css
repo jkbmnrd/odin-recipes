@@ -4,3 +4,8 @@
     background-color: bisque;
     color: black;
 }
+
+img {
+    height: auto;
+    width: 500px;
+}
