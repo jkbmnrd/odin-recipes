@@ -33,6 +33,10 @@ p {
     text-align: center;
 }
 
+p.about {
+    text-align: left;
+}
+
 li {
     padding: 5px;
     margin: 20px;
