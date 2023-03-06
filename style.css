@@ -33,23 +33,9 @@ p {
     text-align: center;
 }
 
-ul {
-    color: black;
-    align-items: center;
-    text-align: left;
-}
-
-ol {
-    color: black;
-    align-items: center;
-    text-align: left;
-}
-
 li {
     padding: 5px;
     margin: 20px;
-    align-items: center;
-    text-align: left;
 }
 
 a {
